@@ -9,6 +9,7 @@ public class PracticeGit_001 {
 		System.out.println("master branch");
 		System.out.println("sub1 barnch");
 		System.out.println("sub1 barnch1");
+		System.out.println("sub1 barnch2");
 	}
 
 }
