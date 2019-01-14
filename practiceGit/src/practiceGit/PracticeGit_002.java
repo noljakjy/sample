@@ -16,4 +16,5 @@ public class PracticeGit_002 {
 	public static final int COUNT12 = 122222;
 	public static final int COUNT13 = 13;
 	public static final int COUNT14 = 14;
+	public static final int COUNT15 = 15;
 }
