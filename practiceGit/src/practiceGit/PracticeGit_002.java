@@ -9,4 +9,5 @@ public class PracticeGit_002 {
 	public static final int COUNT5 = 5;
 	public static final int COUNT6 = 6;
 	public static final int COUNT7 = 7;
+	public static final int COUNT8 = 8;
 }
